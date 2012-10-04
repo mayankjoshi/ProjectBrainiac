@@ -1,4 +1,4 @@
-package my.projects.stack.Stack;
+package my.projects.stack;
 
 import java.util.Scanner;
 
