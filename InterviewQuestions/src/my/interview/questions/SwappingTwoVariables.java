@@ -9,7 +9,7 @@ public class SwappingTwoVariables {
 		swap(a,b);
 	}
 
-	private static void swap(int a, int b) {
+	public static void swap(int a, int b) {
 		// Use a Third Var
 		int c =a;
 		a=b; 
