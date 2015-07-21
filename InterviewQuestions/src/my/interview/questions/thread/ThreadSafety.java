@@ -1,8 +1,6 @@
-package thread;
+package my.interview.questions.thread;
 
 public class ThreadSafety {
-
-	public class ThreadSafety {
 
 		public static void main(String[] args) throws InterruptedException {
 
@@ -37,7 +35,7 @@ public class ThreadSafety {
 		private void processSomething(int i) {
 			// processing some job
 			try {
-				Thread.sleep(i * 1000);
+				Thread.sleep(i);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
@@ -45,4 +43,4 @@ public class ThreadSafety {
 
 	}
 
-}
+

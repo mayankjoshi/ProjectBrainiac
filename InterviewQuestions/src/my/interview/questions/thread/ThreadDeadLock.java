@@ -1,4 +1,4 @@
-package thread;
+package my.interview.questions.thread;
 
 public class ThreadDeadLock {
 
