@@ -2,10 +2,10 @@ package my.interview.questions.strings;
 
 /**
  * 
- * 
+ * s
  * Count of strings that can be formed using a, b and c under given constraints
  * Given a length n, count the number of strings of length n that can be made
- * using ‘a’, ‘b’ and ‘c’ with at-most one ‘b’ and two ‘c’s allowed.
+ * using â€˜aâ€™, â€˜bâ€™ and â€˜câ€™ with at-most one â€˜bâ€™ and two â€˜câ€™s allowed.
  * 
  * @author mayank
  *
