@@ -5,6 +5,14 @@ public class Node {
 	Object value;
 	Node left;
 	Node right;
+	Object key;
+	public Object getKey() {
+		return key;
+	}
+
+	public void setKey(Object key) {
+		this.key = key;
+	}
 
 	public Object getValue() {
 		return value;
