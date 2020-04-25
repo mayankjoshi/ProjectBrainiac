@@ -1,4 +1,4 @@
-package my.interview.questions.tinyUrl;
+package my.interview.questions;
 
 import java.util.concurrent.ThreadLocalRandom;
 
