@@ -12,7 +12,7 @@ public class SortedArrayToBST {
 
 	}
 
-	private Node arrayToBinaryTree(int array[], int start, int end) {
+	public Node arrayToBinaryTree(int array[], int start, int end) {
 
 		if (start > end) {
 			return null;
