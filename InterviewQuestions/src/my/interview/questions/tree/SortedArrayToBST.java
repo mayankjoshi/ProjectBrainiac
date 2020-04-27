@@ -33,7 +33,7 @@ public class SortedArrayToBST {
 
 	}
 
-	private void preOrder(Node node) {
+	public void preOrder(Node node) {
 		if (node == null) {
 			return;
 		}
